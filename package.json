@@ -1,5 +1,5 @@
 {
-  "name": "grommet-todo",
+  "name": "andrey-todo",
   "version": "0.3.0",
   "description": "Todo application created on top of Grommet framework",
   "main": "src/js/index.js",
